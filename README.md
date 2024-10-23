@@ -1,11 +1,15 @@
 <div align="center">
 <h1>Hi there 👋, i'm <a href="#blue">ipstaqz</a></h1>
 </div>
-<img src="https://i.imgur.com/haa2Lnu.png">
+<img src="https://i.imgur.com/XdeJiyK.png">
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa36jcsh1J8ijChHK3lttKA)](https://youtube.com/@Namistaki?sub_confirmation=1)
 ![GitHub followers](https://img.shields.io/github/followers/ipstaqz)
+[![Static Badge](https://img.shields.io/badge/Instagram-DF34EC)](https://www.instagram.com/namiko_blue/)
+[![Static Badge](https://img.shields.io/badge/Facebook-3D88E3)](https://www.facebook.com/Namistaki)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Namiko_Blue)
+
 
 
 ## About:
@@ -14,13 +18,13 @@ Maybe while you are watching this you are wondering “What the hell is ipstaqz 
  - "ipstaqz” is a combination of random characters that came out once I hit random keys on my keyboard, and since then it's a name I use in accounts like this one.
  - I am studying at high school level, in some of my programs I mention where I am from, if you want to see it take a look at my programs.
 
-## Work performed
+## Programming languages
  - ⭐ C++
  - ☕ Java (Console and Swing)
  - ✨ Arduino (Using ArduinoIDE and PlatformIO)
  - 🖥️ And web application development (HTML, CSS and JavaScript)
 
-## Proyectos *bombitas*
+## *Awesome* proyects
 <table>
 <tr>
 <td width="50%">
