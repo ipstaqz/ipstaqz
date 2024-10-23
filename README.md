@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/ipstaqz)
 
 
-## About
+## About:
 Maybe while you are watching this you are wondering “What the hell is ipstaqz and where did this guy come from”, well, this is a good opportunity to let you know who I really am.
 
  - "ipstaqz” is a combination of random characters that came out once I hit random keys on my keyboard, and since then it's a name I use in accounts like this one.
@@ -24,44 +24,45 @@ Maybe while you are watching this you are wondering “What the hell is ipstaqz 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Descarga VS Code</h3>
+<h3 align="center">Download VS Code</h3>
 <div align="center">
 <a href="https://youtu.be/M2RP6RNspB8?si=GOtqy0ofM87rDRDD" target="_blank"><img src="https://i.imgur.com/UtMT3Cd.png" width="400" alt="Descarga VS Code"></a>
 <p>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="https://www.youtube.com/watch?v=M2RP6RNspB8" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>La mayoria de los programadores de la actualidad utilizan <strong>Visual Studio Code</strong> como Editor de texto preferido, en este video aprenderas a desgargar esta simple pero poderosa herrameinta de trabajo.</p>
+<p>Most programmers today use <strong>Visual Studio Code</strong> as their preferred text editor, in this video you will learn how to download this simple but powerful tool.<strong>[Video en español]</strong></p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">=Pendiente=</h3>
+<h3 align="center">=Pending=</h3>
 <div align="center">                                       
-<a href="#link-a-donde-mandara-la-foto" target="_blank"><img src="https://i.imgur.com/rO9gfDG.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="#link-a-donde-mandara-la-foto" target="_blank"><img src="https://i.imgur.com/rO9gfDG.jpeg" width="400" alt="algo"></a>
 <br>
 <p>
 <a href="#link-al-video-de-YT" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Espacio <strong>RESERVADO</strong> para cuando haga el segundo video. Por lo mientras dejo la miniatura de otro video mio que nada tiene que ver con el tema.</p>
+</p>Space <strong>RESERVED</strong> for when I make the second video. In the meantime I leave the thumbnail of another video of mine that has nothing to do with the subject.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
+</div>
 <br>
 
-<!---
-# requisitos
-- Foto de perfil
-- Facebook
-- WhatsApp
-- Twiter
-- Instagram
-- 2 Archivos en youtube, que fueron elaborados por uds. referentes a la programacion
-- Una breve descripcion del trabajo realizado
----!>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ipstaqz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipstaqz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipstaqz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
