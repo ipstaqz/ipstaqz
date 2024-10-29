@@ -6,6 +6,9 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa36jcsh1J8ijChHK3lttKA)](https://youtube.com/@Namistaki?sub_confirmation=1)
 ![GitHub followers](https://img.shields.io/github/followers/ipstaqz)
+[![Static Badge](https://img.shields.io/badge/Instagram-DF34EC)](https://www.instagram.com/namiko_blue/)
+[![Static Badge](https://img.shields.io/badge/Facebook-3D88E3)](https://www.facebook.com/Namistaki)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Namiko_Blue)
 
 
 
