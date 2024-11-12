@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi there 👋, i'm <a href="#blue">ipstaqz</a></h1>
+<h1>Hi there 👋, i'm <a href="#blue">jvli</a></h1>
 </div>
 <img src="https://i.imgur.com/XdeJiyK.png">
 
@@ -11,7 +11,7 @@
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Namiko_Blue)
 
 
-
+[im too lazy to update this sh--, so i'll do nothing]
 ## About:
 Maybe while you are watching this you are wondering “What the hell is ipstaqz and where did this guy come from”, well, this is a good opportunity to let you know who I really am.
 
