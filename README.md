@@ -5,7 +5,7 @@
 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCa36jcsh1J8ijChHK3lttKA)](https://youtube.com/@Namistaki?sub_confirmation=1)
-![GitHub followers](https://img.shields.io/github/followers/ipstaqz)
+![GitHub followers](https://img.shields.io/github/followers/jvliDev)
 [![Static Badge](https://img.shields.io/badge/Instagram-DF34EC)](https://www.instagram.com/namiko_blue/)
 [![Static Badge](https://img.shields.io/badge/Facebook-3D88E3)](https://www.facebook.com/Namistaki)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Namiko_Blue)
@@ -64,8 +64,8 @@ Maybe while you are watching this you are wondering “What the hell is ipstaqz 
 
 <p align="center">
 <a href="https://github.com/ipstaqz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipstaqz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ipstaqz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jvliDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jvliDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
